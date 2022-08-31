@@ -1,0 +1,5 @@
+campussquare_user_name = ""
+campussquare_pw = ""
+from_email = ""
+to_email = ""
+app_pass = ""
